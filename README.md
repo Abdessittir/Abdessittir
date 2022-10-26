@@ -20,12 +20,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdessittir&show_icons=true&locale=en&layout=compact" alt="abdessittir" /></p>
 <br />
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessittir&show_icons=true&locale=en" alt="abdessittir" /></p>
-<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdessittir&" alt="abdessittir" /></p>
-<br />
 
 ![Abdessittir's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=abdessittir&theme=redical&hide_border=true&area=true)
 
