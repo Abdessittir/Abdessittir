@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdessittir&label=Profile%20views&color=0e75b6&style=flat" alt="abdessittir" /> </p>
 
-- 🌱 I’m currently learning **Algorithms and data structures**
+- 🌱 I’m currently learning **full-stack development, Algorithms, and data structures** at Microverse
 
-- 💬 Ask me about **React.js Next.js Javascript C++ HTML CSS**
+- 💬 Ask me about **React.js Next.js Javascript HTML CSS**
 
 - 📫 How to reach me **harkati.web.dev@gmail.com**
 
